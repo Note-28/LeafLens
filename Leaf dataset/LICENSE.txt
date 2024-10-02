@@ -1,0 +1,49 @@
+# License Agreement for Using the Indian Medicinal Leaves Image Dataset
+
+
+**Dataset Title**: Indian Medicinal Leaves Image Datasets
+
+**Published Date**: 5 May 2023
+
+**Version**: 3
+
+**DOI**: [10.17632/748f8jkphb.3](https://doi.org/10.17632/748f8jkphb.3)
+
+**Contributors**: Pushpa B R, Shobha Rani
+
+**License Type**: [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
+
+---
+
+## Description
+The Indian Medicinal Leaves Image Dataset is a comprehensive repository consisting of images of medicinal plants captured with varying backgrounds and without environmental constraints. This dataset is invaluable for research in plant identification and medicinal properties.
+
+## Citation
+When using this dataset, please cite it as follows:
+
+B R, Pushpa & Rani, Shobha. (2023). Indian Medicinal Leaves Image Datasets (V3). Mendeley Data. https://doi.org/10.17632/748f8jkphb.3
+
+## Terms of Use
+
+By using the Indian Medicinal Leaves Image Dataset, you agree to the following terms:
+
+1. **Attribution**: You must give appropriate credit to the dataset contributors, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+
+2. **Non-Commercial Use**: This dataset is intended for research and educational purposes. If you plan to use it for commercial purposes, please seek additional permissions.
+
+3. **No Warranty**: The dataset is provided "as is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, or non-infringement.
+
+4. **Compliance with Laws**: You are responsible for complying with any applicable laws or regulations in relation to your use of this dataset.
+
+---
+
+## Contact Information
+
+For any questions regarding the dataset, please contact the dataset contributors through the Mendeley platform.
+
+---
+
+
+**Date**: 02/10/2024
+
+
