@@ -56,12 +56,6 @@ The LeafLens project allows users to identify leaves in real-time using their de
 - Ensure the lighting conditions are good for better accuracy in predictions.
 - The model's predictions depend on the training dataset; therefore, it may not recognize all leaf species accurately.
 
-### Example Usage
-
-```bash
-# Run the camera identification script
-./Scripts/firewall_automation.sh
-```
 
 ## Conclusion
 Saving the model and its weights allows for efficient use of the trained model in future applications. By following the methods outlined in this section, you can ensure that your model is preserved and easily retrievable for later use, whether for inference or continued training.
