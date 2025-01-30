@@ -56,6 +56,17 @@ The LeafLens project allows users to identify leaves by manually uploading an im
 - Ensure the image quality is good for better accuracy in predictions.
 - The model's predictions depend on the training dataset; therefore, it may not recognize all leaf species accurately.
 
+## Screenshots
+
+Here are some sample screenshots demonstrating the usage of LeafLens:
+
+![Upload Screen](upload_screen.png)
+*Screenshot of the image upload section.*
+
+![Prediction Result](prediction_result.png)
+*Screenshot showing the prediction output.*
+
+
 ## Conclusion
 Saving the model and its weights allows for efficient use of the trained model in future applications. By following the methods outlined in this section, you can ensure that your model is preserved and easily retrievable for later use, whether for inference or continued training.
 
@@ -68,3 +79,12 @@ Feel free to open issues or submit pull requests for any improvements. Contribut
 ## Author
 
 - Manan Punatu
+
+---
+
+### 📌 Repository Information
+
+This README file serves as documentation for the **LeafLens** project hosted on GitHub. For detailed code and contributions, visit the repository:
+
+🔗 [GitHub Repository](#)
+
