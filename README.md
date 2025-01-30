@@ -1,4 +1,4 @@
-# LeafLens
+# LeafLens: Leaf Identification System 🌿
 
 Dive into the world of botany with **LeafLens**. Armed with the power of the Xception model, this project transforms your device into a leaf-identifying superhero. Simply upload an image, and let LeafLens unveil the mysteries of nature one leaf at a time! Whether you're a curious nature lover or a budding botanist, LeafLens is here to help you discover the leafy wonders around you. 🌿🔍
 
