@@ -60,11 +60,12 @@ The LeafLens project allows users to identify leaves by manually uploading an im
 
 Here are some sample screenshots demonstrating the usage of LeafLens:
 
+*Screenshot of the image upload section:*
 ![Upload Screen](upload_screen.png)
-*Screenshot of the image upload section.*
 
+*Screenshot showing the prediction output:*
 ![Prediction Result](prediction_result.png)
-*Screenshot showing the prediction output.*
+
 
 
 ## Conclusion
@@ -80,11 +81,4 @@ Feel free to open issues or submit pull requests for any improvements. Contribut
 
 - Manan Punatu
 
----
-
-### 📌 Repository Information
-
-This README file serves as documentation for the **LeafLens** project hosted on GitHub. For detailed code and contributions, visit the repository:
-
-🔗 [GitHub Repository](#)
 
